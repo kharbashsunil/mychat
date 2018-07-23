@@ -1,0 +1,3 @@
+function register(res,req){
+  
+}
